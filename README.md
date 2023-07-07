@@ -1,4 +1,4 @@
-# prediction_app_pycharm
+# Crime_prediction_app_pycharm
 Prediction application using streamlit in pycharm
 ==================================================
 import streamlit as st
